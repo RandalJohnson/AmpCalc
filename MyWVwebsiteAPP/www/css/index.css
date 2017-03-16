@@ -1,0 +1,44 @@
+body {
+    background-color: lightblue;
+    background-image: url(images/flowers.jpg);
+    color: black;
+    font-size:20px;
+    padding:5px;
+}
+a:link {
+    color:darkblue;
+    text-decoration:underline;
+}
+a:visited {
+    color:red;
+}
+.navbar {
+    font-size: 16px;
+}
+
+.row {
+    font-size: 2em;
+}
+
+h1 {
+}
+
+p {
+    background-color: gold;
+    
+}
+
+
+p.solid {
+    background-color: gold;
+    border-style: solid;
+    border-color: darkblue;
+    color: black;
+    padding:5px;
+}
+div p.solid img {
+    border-style:solid;
+    border-style: solid;
+    border-color: darkblue;
+}
+
